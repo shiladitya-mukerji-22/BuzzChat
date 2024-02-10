@@ -1,0 +1,13 @@
+# General
+node_modules/
+*.log
+*.env
+.DS_Store
+
+# Frontend-specific
+BuzzChat_Client/node_modules/
+# BuzzChat_Client/.env
+
+# Backend-specific
+BuzzChat_Server/node_modules/
+# Backend/.env
